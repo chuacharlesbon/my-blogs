@@ -8,10 +8,9 @@ export default function Home() {
       <Head>
         <title>Test Title | PH</title>
         <link rel="icon" href="/c-logo.jpg" />
-        <meta property="og:title" content="The Rock" />
-        <meta property="og:type" content="video.movie" />
-        <meta property="og:url" content="https://www.imdb.com/title/tt0117500/" />
-        <meta property="og:image" content="https://ia.media-imdb.com/images/rock.jpg" />
+        <meta property="og:title" content="The Home" />
+        <meta property="og:description " content="This is the home" />
+        <meta property="og:image" content="https://fontawesome.com/social/house?f=&s=" />
       </Head>
 
       <main>
