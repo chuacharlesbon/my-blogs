@@ -7,7 +7,7 @@ export default function SecondPost() {
             <title>Test Title | Page 2</title>
             <link rel="icon" href="/s-logo.png" />
             <meta property="og:title" content="The Page 2" />
-            <meta property="og:description " content="This is the page 2" />
+            <meta property="og:description" content="This is the page 2" />
             <meta property="og:image" content="https://i.ytimg.com/vi/IiNDgmq18Ks/maxresdefault.jpg" />
         </Head>
         <h1>
